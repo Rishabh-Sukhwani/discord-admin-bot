@@ -8,6 +8,7 @@ A discord bot with adminstrative functionalities written in NodeJS.
 - Kick user
 - Prune messages
 - Display avatar
+- Check permissions
 
 
 
